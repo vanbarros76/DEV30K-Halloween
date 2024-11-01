@@ -108,7 +108,7 @@ Abra [http://localhost:3000](http://localhost:3000) 🎃
 <div align="center">
 
 ### 🦇 Tela Principal
-![Main Screen](./assets/images/tela-principal.png)
+![Main Screen](./assets/images/tela-inicial.png)
 
 ### 🕸️ Transação
 ![Transaction](./assets/images/transacao-1.png)
