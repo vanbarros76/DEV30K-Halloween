@@ -147,7 +147,6 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 - [NearX](https://nearx.io/) pelo desafio incrível
 - [Stellar](https://www.stellar.org/) pela infraestrutura blockchain
 - [Framer Motion](https://www.framer.com/motion/) pelas animações
-- Todos os desenvolvedores que contribuíram
 
 ---
 
