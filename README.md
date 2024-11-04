@@ -18,7 +18,7 @@
 ## 🌟 Funcionalidades
 
 - 🔮 **Assinatura Blockchain**
-  - Assine a mensagem "DEV30K" na blockchain Stellar
+  - Assine a mensagem "DEV30K" na mainnet da blockchain Stellar
   - Verificação em tempo real das transações
     
 
