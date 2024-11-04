@@ -152,6 +152,6 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 <div align="center">
   
-🧙‍♂️ Desenvolvido com 💜 por Vanessa Barros ([LinkedIn](https://www.linkedin.com/in/vanessabarros-tech/))
-
+🧙‍♂️ Desenvolvido com 💜 por Vanessa Barros 
+<a href="https://www.linkedin.com/in/vanessabarros-tech/" target="_blank">LinkedIn</a>
 </div>
